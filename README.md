@@ -14,3 +14,7 @@ Solutions in this repository is my own way of solving the problems. You may find
 
 [Problem 4](python/problem-4.py)
 
+[Problem 5](python/problem-5.py)
+
+[Problem 6 Solving](python/problem-6-solving.py)
+
