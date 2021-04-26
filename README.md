@@ -16,5 +16,7 @@ Solutions in this repository is my own way of solving the problems. You may find
 
 [Problem 5](python/problem-5.py)
 
-[Problem 6 Solving](python/problem-6-solving.py)
+[Problem 6](python/problem-6.py)
+
+[Problem 7](python/problem-7.py)
 
