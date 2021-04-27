@@ -20,3 +20,5 @@ Solutions in this repository is my own way of solving the problems. You may find
 
 [Problem 7](python/problem-7.py)
 
+[Problem 8](python/problem-8.py)
+
